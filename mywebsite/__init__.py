@@ -24,7 +24,11 @@ def create_app(config_name):
     app = Flask(__name__)
     app.config.from_object(config[config_name])
     db.init_app(app)
+    # 注册功能模块的蓝图
     from api_1 import api
     app.register_blueprint(api)
+    # 注册管理员视图的蓝图
+    from utils.admin import admin_manage
+    app.register_blueprint(admin_manage, url_prefix='/admin')
     return app
 

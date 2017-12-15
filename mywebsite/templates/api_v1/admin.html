@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>管理员视图</title>
+</head>
+<body>
+<form action="" id="blog">
+    <ul>
+        <li>标题<input type="text" id="title"></li>
+        <li>作者<input type="text" id="author"></li>
+        <li>简介<input type="text" id="desc"></li>
+        <li>内容<textarea id="content"></textarea>></li>
+        <li><input type="submit" value="提交"></li>
+        <li><input type="reset" name="reset" style="display: none;" /></li>
+    </ul>
+</form>
+</body>
+<script>
+{#    function getCookie(name) {#}
+{#    var r = document.cookie.match("\\b" + name + "=([^;]*)\\b");#}
+{#    return r ? r[1] : undefined;#}
+{#}#}
+    $('#blog').submit(function () {
+        var title = $('#title').val()
+        var author = $('#author').val()
+        var desc = $('#desc').val()
+        var content = $('#content').val()
+        var params = {}
+        params['title'] = title
+        params['author'] = author
+        params['desc'] = desc
+        params['content'] = content
+        alert(params)
+        $.ajax({
+            url: '/admin/blog/add',
+            type: 'post',
+            contentType: 'application/json',
+            data: JSON.stringify(params),
+            {#headers: {'X-CSRFToken':getCookie('csrf_token')},#}
+            success: function (resp) {
+                if(resp.errno == '0'){
+                    alert('添加成功');
+                    $("input[type=reset]").trigger("click");
+                }else{
+                    alert(resp.errmsg)
+                }
+            }
+        })
+    })
+</script>
+</html>

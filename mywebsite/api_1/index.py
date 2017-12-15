@@ -18,6 +18,7 @@ def index():
         data['date'] = blog.update_time
         data['content'] = blog.content
         data['index'] = blog.id
+        data['desc'] = blog.desc
         data_list.append(data)
 
     return render_template('api_v1/index.html', errno='0', data_list=data_list)
