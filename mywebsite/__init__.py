@@ -2,7 +2,6 @@
 from flask import Flask
 import logging
 from logging.handlers import RotatingFileHandler
-from api_1 import api
 from flask_sqlalchemy import SQLAlchemy
 from config import config, Config, DevelopmentConfig, ProductionConfig
 
@@ -24,6 +23,8 @@ logging.getLogger().addHandler(file_log_handler)
 def create_app(config_name):
     app = Flask(__name__)
     app.config.from_object(config[config_name])
+    db.init_app(app)
+    from api_1 import api
     app.register_blueprint(api)
     return app
 

@@ -2,161 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fe958bb-7267-4cb9-8da0-fd39b0cbbbe3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/my_webserver.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/api_1/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/api_1/gallery.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/api_1/index.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/api_1/personal_page.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/config.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/models.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css/templatemo_style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/bg_tms.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/ajax-loader_b.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/b_c.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/b_l.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/b_r.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/bg_load.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/bg_load.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/c.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/c_l.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/c_r.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/close_btn3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/img_bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/link_out.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/link_out.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/link_out_h.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/link_out_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/next.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/next_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/nextoutside.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/nextoutside_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/pause.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/pause_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/play.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/play_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/prev.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/prev_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/prevoutside.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/prevoutside_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/t_c.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/t_l.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/black/t_r.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/css_page.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shad_bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/ajax-loader_b.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/b_c.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/b_l.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/b_r.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/bg_load.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/bg_load.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/c_l.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/c_r.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/close_btn3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/img_bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/link_out.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/link_out.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/link_out_h.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/link_out_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/next.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/next_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/nextoutside.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/nextoutside_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/pause.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/pause_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/play.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/play_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/prev.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/prev_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/prevoutside.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/prevoutside_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/t_c.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/t_l.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/shadow/t_r.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/ajax-loader_b.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/ajax-loader_w.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/b_c.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/b_l.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/b_r.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/bg_load.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/bg_load.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/bg_load_w.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/c.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/c_l.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/c_r.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/close_btn3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/credits_bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/img_bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/link_out.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/link_out.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/link_out_h.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/link_out_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/next.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/next_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/nextoutside.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/nextoutside_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/pause.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/pause_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/pirobox_down.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/play.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/play_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/prev.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/prev_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/prevoutside.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/prevoutside_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/t_c.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/t_l.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/css_pirobox/white/t_r.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/avator.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/content_top.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/flashmo.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/gallery/image_01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/gallery/image_01_b.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/gallery/image_02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/gallery/image_02_b.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/gallery/image_03.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/gallery/image_03_b.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/gallery/image_04.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/gallery/image_04_b.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/image_01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/onebit_15.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/onebit_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/rssorange.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/templatemo.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/templatemo_body.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/templatemo_footer.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/templatemo_image_01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/templatemo_image_02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/templatemo_main.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/templatemo_menu_hover.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/templatemo_sidebox.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/templatmeo_main_top.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/images/vertical_divider.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/js/jquery-1.3.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/js/jquery-1.3.2.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/js/jquery.easing.1.3.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/js/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/js/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/js/jquery.slideViewerPro.1.0.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/js/jquery.timers.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/js/piroBox.1_2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/static/js/piroBox.1_2_min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/templates/api_v1/about.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/templates/api_v1/base.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/templates/api_v1/blog_post.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/templates/api_v1/contact.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/templates/api_v1/gallery.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mywebsite/templates/api_v1/index.html" />
-      <change beforePath="$PROJECT_DIR$/my_webserver.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/manage.py" afterPath="$PROJECT_DIR$/manage.py" />
+      <change beforePath="$PROJECT_DIR$/mywebsite/__init__.py" afterPath="$PROJECT_DIR$/mywebsite/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/mywebsite/models.py" afterPath="$PROJECT_DIR$/mywebsite/models.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -166,16 +15,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/my_webserver$my_webserver.coverage" NAME="my_webserver Coverage Results" MODIFIED="1513303322625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/my_webserver$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1513303526608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mywebsite" />
+    <SUITE FILE_PATH="coverage/my_webserver$my_webserver.coverage" NAME="my_webserver Coverage Results" MODIFIED="1513327429206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="manage.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="72">
+              <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -186,31 +35,9 @@
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mywebsite/api_1/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="96">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mywebsite/templates/api_v1/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gallery.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mywebsite/api_1/gallery.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#17#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -218,8 +45,8 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mywebsite/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="497">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding>
                 <element signature="e#39#68#0" expanded="true" />
               </folding>
@@ -227,24 +54,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mywebsite/templates/api_v1/base.html">
+      <file leaf-file-name="index.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mywebsite/api_1/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
-              <folding />
+            <state relative-caret-position="378">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mywebsite/api_1/index.py">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/.virtualenvs/flask_py2/local/lib/python2.7/site-packages/flask/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="2342">
+              <caret line="1472" column="42" lean-forward="true" selection-start-line="1472" selection-start-column="42" selection-end-line="1472" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -252,21 +79,11 @@
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mywebsite/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+            <state relative-caret-position="384">
+              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
               <folding>
                 <element signature="e#15#38#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mywebsite/config.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="16" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -289,16 +106,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/my_webserver.py" />
-        <option value="$PROJECT_DIR$/mywebsite/api_1/index.py" />
-        <option value="$PROJECT_DIR$/mywebsite/templates/api_v1/base.html" />
         <option value="$PROJECT_DIR$/mywebsite/api_1/__init__.py" />
-        <option value="$PROJECT_DIR$/mywebsite/templates/api_v1/index.html" />
         <option value="$PROJECT_DIR$/mywebsite/api_1/personal_page.py" />
         <option value="$PROJECT_DIR$/mywebsite/api_1/gallery.py" />
         <option value="$PROJECT_DIR$/mywebsite/config.py" />
-        <option value="$PROJECT_DIR$/mywebsite/__init__.py" />
-        <option value="$PROJECT_DIR$/mywebsite/models.py" />
+        <option value="$PROJECT_DIR$/mywebsite/templates/api_v1/base.html" />
+        <option value="$PROJECT_DIR$/mywebsite/templates/api_v1/index.html" />
         <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/mywebsite/api_1/index.py" />
+        <option value="$PROJECT_DIR$/mywebsite/models.py" />
+        <option value="$PROJECT_DIR$/mywebsite/__init__.py" />
       </list>
     </option>
   </component>
@@ -309,10 +126,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="292" />
-    <option name="y" value="80" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -346,6 +163,31 @@
               <item name="my_webserver" type="462c0819:PsiDirectoryNode" />
               <item name="mywebsite" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="my_webserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_webserver" type="462c0819:PsiDirectoryNode" />
+              <item name="mywebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="api_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_webserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_webserver" type="462c0819:PsiDirectoryNode" />
+              <item name="mywebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_webserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_webserver" type="462c0819:PsiDirectoryNode" />
+              <item name="mywebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_webserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_webserver" type="462c0819:PsiDirectoryNode" />
+              <item name="mywebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="api_v1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -360,6 +202,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/mywebsite" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -378,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.__init__">
+  <component name="RunManager" selected="Python.my_webserver">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -412,7 +255,7 @@
       <module name="my_webserver" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="PARAMETERS" value="runserver" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -448,11 +291,32 @@
       <option name="project" value="LOCAL" />
       <updated>1513266429396</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="项目初始化">
+      <created>1513316470061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1513316470061</updated>
+    </task>
+    <task id="LOCAL-00003" summary="项目初始化">
+      <created>1513324008849</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1513324008849</updated>
+    </task>
+    <task id="LOCAL-00004" summary="抽取模板，完成首页初步显示">
+      <created>1513324071830</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1513324071830</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="292" y="80" width="1855" height="1056" extended-state="6" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -460,14 +324,14 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14451186" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979124" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -486,10 +350,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="项目初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目初始化" />
+    <MESSAGE value="抽取模板，完成首页初步显示" />
+    <option name="LAST_COMMIT_MESSAGE" value="抽取模板，完成首页初步显示" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mywebsite/api_1/index.py</url>
+          <line>9</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -517,16 +390,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mywebsite/api_1/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mywebsite/api_1/personal_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -535,26 +398,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mywebsite/templates/api_v1/base.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py2/local/lib/python2.7/site-packages/sqlalchemy/sql/schema.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="1516" column="29" lean-forward="false" selection-start-line="1516" selection-start-column="19" selection-end-line="1516" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mywebsite/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mywebsite/templates/api_v1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        <state relative-caret-position="-59">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -562,17 +425,51 @@
     <entry file="file://$PROJECT_DIR$/mywebsite/api_1/gallery.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
-            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#0#17#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mywebsite/templates/api_v1/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="1676" column="0" lean-forward="false" selection-start-line="1676" selection-start-column="0" selection-end-line="1676" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mywebsite/templates/api_v1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mywebsite/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="497">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding>
             <element signature="e#39#68#0" expanded="true" />
           </folding>
@@ -581,29 +478,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mywebsite/api_1/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="96">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mywebsite/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        <state relative-caret-position="384">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
           <folding>
             <element signature="e#15#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
+    <entry file="file://$PROJECT_DIR$/mywebsite/api_1/index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="378">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#0#55#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py2/local/lib/python2.7/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2342">
+          <caret line="1472" column="42" lean-forward="true" selection-start-line="1472" selection-start-column="42" selection-end-line="1472" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
