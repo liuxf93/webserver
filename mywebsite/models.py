@@ -50,7 +50,7 @@ class Blog(BaseModel, db.Model):
 
     id = db.Column(db.Integer, primary_key=True)  # 区域编号
     name = db.Column(db.String(32), nullable=False)  # 区域名字
-    author = db.ForeignKey(User)  # 区域的房屋
+    user = db.relationship('User', backref='blog')
     content = db.Column(db.Text())
     comment = db.Column(db.String(100))
     reply = db.Column(db.String(100))
